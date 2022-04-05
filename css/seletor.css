@@ -6,6 +6,7 @@
 }
 
 /* Para usar um elemento a partir de sua classe usa-se um "." antes do nome da class */
+/* Para a classe se mexe quando deseja alterar todos elementos com a mesma classe */
 
 .teste0 {
     background-color:black;
@@ -20,6 +21,7 @@
 }
 
 /* Para usar um elemento a partir de seu id usa-se uma "#" antes do nome do id */
+/* Para o id se usa quando deseja mexer em um unico elemento */
 
 #test0 {
     background-color:black;
