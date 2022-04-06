@@ -1,0 +1,22 @@
+body{
+    margin:0%;
+}
+
+.usu{
+    background-color: aqua;
+}
+
+footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    background-color: red;
+}
+
+.oi{
+    background-color:yellow;
+}
+
+.text1{
+    background-color:yellowgreen;
+}
