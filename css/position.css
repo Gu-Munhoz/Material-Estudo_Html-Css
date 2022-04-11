@@ -1,0 +1,21 @@
+div{
+    width:100px;
+    height:100px;
+    background-color:red;
+    margin: 5px;
+}
+
+.quadrado{
+    position: absolute;
+}
+
+
+
+/* **Position**
+Static= estatico, já esta por padrao, o item fica no local padrão.
+
+absolute= flutuando, por exemplo voce pode colocar ele no local que quiser da tela, mas ele fica de acordo com a pagina.
+
+fixed= similar ao absolute mas ele fica de acordo com o navegador, entao ao rodar a barra de rolagem ele fica.quadrado
+
+Relative= você pode usar para trabalhar com profundidade. */
