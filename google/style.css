@@ -1,0 +1,27 @@
+.logo{
+    padding: 20px;
+    margin: 200px ;
+}
+
+.campoPesquisa{
+    background-color:rgb(249, 244, 244);
+    display: flex;
+    border: 1px solid grey;
+    border-radius: 15px;
+    font-family: inherit;
+}
+
+.campoPesquisa:hover{
+    background-color:rgb(157, 76, 76)
+}
+
+body{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh - var(--ntp-one-google-bar-height));
+    min-width: fit-content;
+    padding-top: var(--ntp-one-google-bar-height);
+    position: relative;
+    z-index: 1;
+}

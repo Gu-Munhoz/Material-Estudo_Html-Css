@@ -1,0 +1,13 @@
+table,td,th,tr{
+    margin: auto;
+    border: 1px solid;
+}
+.a{
+    background-color:#feffc5;
+}
+.b{
+    background-color:#c5c7ff;
+}
+.c{
+    background-color:#c6ffc8;
+}

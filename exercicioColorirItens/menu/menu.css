@@ -1,0 +1,16 @@
+body{
+    margin:0;
+}
+div{
+    background-color:blue;
+    height:100%;
+    padding:10px;
+}
+a{
+    color:white;
+    padding:10px;
+}
+a:hover{
+    color:blue;
+    background-color:white;
+}
