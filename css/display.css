@@ -1,0 +1,22 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color:red;
+    margin: 5px;
+}
+
+.quadrado{
+    display: none;
+}
+
+/*
+    ***Display***
+
+none= ele esconde o item da tela.
+
+block= ele faz o funcionamendo do item em bloco.                Um exemplo,Block=div
+
+inline= ele se adapta com o conteudo dentro dele.                inline=span   
+
+inline-block= uma mistura de block e inline, ele fica tudo na linha.
+*/
