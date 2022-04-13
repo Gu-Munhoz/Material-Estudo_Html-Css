@@ -1,16 +1,15 @@
 body{
-    margin:0;
+    margin: 0;
+    padding: 0px 20;
 }
-div{
-    background-color:blue;
-    height:100%;
-    padding:10px;
-}
-a{
-    color:white;
-    padding:10px;
-}
-a:hover{
-    color:blue;
-    background-color:white;
+
+.header{
+    text-align: center;
+    f
+    top: 0;
+    position:fixed;
+    width:100%;
+    height: 60px;
+    background-color:rgb(4, 75, 113);
+    font-family: papyrus;
 }
